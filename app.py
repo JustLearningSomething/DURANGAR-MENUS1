@@ -29,7 +29,7 @@ st.markdown("""
 st.markdown("""
 <div class="titulo">
   <h2 style="margin:0">🍽️ Sistema Integrado MRP + VRP — NETO DURANGAR S.A.S.</h2>
-  <p style="margin:4px 0 0;opacity:.9">Generador de Menús · Requerimientos de Materiales · Optimización de Rutas Clarke & Wright</p>
+  <p style="margin:4px 0 0;opacity:.9">Generador de Menús · Requerimientos de Materiales · Rutas Clarke & Wright</p>
 </div>""", unsafe_allow_html=True)
 
 # ── DATOS FIJOS VRP (tomados del Excel ClarkeWright_VRP_Durangar.xlsx) ────────
